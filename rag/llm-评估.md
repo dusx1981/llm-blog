@@ -1,4 +1,5 @@
 # 以指标为先的 llm 评估方法
+    https://www.galileo.ai/blog/metrics-first-approach-to-llm-evaluation?utm_medium=email&_hsenc=p2ANqtz--ksKfgcya5HYy0F5zVt-t2U4eWwNg-Qvy1UrVvJF2sgB779fmjfqM9ICVMvtqdnS9ZMlMGgCqa8PrB7j85uFKQMzvfjA&_hsmi=304542585&utm_content=304542585&utm_source=hs_automation
 
 ## 概述
     随着大语言模型（LLMs）如GPT-3、GPT-3.5、GPT-4、Falcon、MPT和Llama的快速进展，LLM已成为人工智能领域的重要技术。越来越多的公司在各种应用场景中开始采用这些模型。然而，存在一个巨大的问题——如何评估这些模型的性能。尤其是在生成应用程序中，公司往往难以比较不同LLM的表现。LLM往往会产生<font color=red>**幻觉**</font>（hallucination），即模型生成的内容不准确或无根据，因此对其进行仔细评估变得至关重要。在这篇博客中，我们将讨论一些有助于评估LLM性能并了解其是否适用于特定使用案例的指标。
